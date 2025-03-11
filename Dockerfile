@@ -5,7 +5,7 @@ LABEL AboutImage "Alpine_Chromium_NoVNC"
 LABEL Maintainer "Apurv Vyavahare <apurvvyavahare@gmail.com>"
 
 #VNC Server Password
-ENV	VNC_PASS="CHANGE_IT" \
+ENV	VNC_PASS="password" \
 #VNC Server Title(w/o spaces)
 	VNC_TITLE="Chromium" \
 #VNC Resolution(720p is preferable)
