@@ -18,7 +18,7 @@
 ## Environment variables:
 |VARIABLE      |DESCRIPTION              |DEFAULT VALUE  |
 |-------------:|:------------------------|:-------------:|
-|VNC_PASS      |VNC Password             |CHANGE_IT      |
+|VNC_PASS      |VNC Password             |hello          |
 |VNC_TITLE     |VNC Session Title        |Chromium       |
 |VNC_SHARED    |VNC Shared Mode          |false          |
 |VNC_RESOLUTION|VNC Resolution           |1280x720       |
